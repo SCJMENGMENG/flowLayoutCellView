@@ -1,0 +1,3 @@
+rootProject.name = 'flowLayoutCellView'
+
+include ':app'
